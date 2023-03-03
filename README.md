@@ -6,8 +6,8 @@
  - Entrada: setada no início do código.<br>
  - Converte a string para inteiro, seções separadas para positivo e negativo.<br>
  - Variável ```isCastValid```:
-     * Se o resultado for 1: estouro nos limites de representação.
-     * Se o resultado for 0: o resultado comporta os limites de representação.<br>
+     * Se o resultado for 0: estouro nos limites de representação.
+     * Se o resultado for 1: o resultado comporta os limites de representação.<br>
 
 <br>**Sobre o código:**<br>
 - Sintaxe Intel x64_86<br>
